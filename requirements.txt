@@ -1,0 +1,4 @@
+geopandas==1.1.2
+osmnx==2.1.0
+Shapely==2.1.2
+Unidecode==1.4.0
